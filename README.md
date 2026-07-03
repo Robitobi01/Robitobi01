@@ -1,9 +1,4 @@
 <div align="center">
-<a href="https://github.com/Robitobi01/github-stats">
-  
-![](https://raw.githubusercontent.com/Robitobi01/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Robitobi01/github-stats/master/generated/languages.svg)
-
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?rank_icon=default&hide_rank=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?rank_icon=default&hide_rank=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?layout=donut&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?layout=donut&langs_count=6&theme=transparent)
 </div>
-
